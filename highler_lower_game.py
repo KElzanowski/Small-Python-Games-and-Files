@@ -1,5 +1,3 @@
-"""A game coded from scratch, where you compare famous Instagram account's follower counts to score points."""
-
 from art import logo, vs
 from game_data import data
 import random
