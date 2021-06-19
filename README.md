@@ -6,3 +6,6 @@ A small game where you bet on a turtle colour, and they move a random distance f
 
 # Isogram Checker
 Short function that checks whether a string is an isogram or not.
+
+# Multiples of 3 or 5
+Short programs that returns the sum of the multiples of 3 or 5 below the number passed in.
